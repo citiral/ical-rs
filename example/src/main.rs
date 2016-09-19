@@ -1,3 +1,12 @@
+extern crate ical;
+
+
 fn main() {
-    println!("Hello, world!");
+	let calendar = ical::from_file("input.ics");
+
+	if let Err(error) = calendar {
+		println!("Error parsing file: {}", error);
+	} else {
+		println!("Calendar parsed successfully!");
+	}
 }

@@ -3,4 +3,5 @@ name = "example"
 version = "0.1.0"
 authors = ["Olivier <olivier4@telenet.be>"]
 
-[dependencies]
+[dependencies.ical]
+path="../ical"
