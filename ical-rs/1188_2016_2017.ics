@@ -1,0 +1,2300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uhasselt/lesroosters//NONSGML v1.0//EN
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UHasselt Uurroosters
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTART:20160919T063000Z
+DTEND:20160919T083000Z
+SEQUENCE:554921
+SUMMARY:BUPRA\; A7\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A7\; *
+ **\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615115_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160919T120000Z
+DTEND:20160919T150000Z
+SEQUENCE:560788
+SUMMARY:CSP\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634960_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160920T083000Z
+DTEND:20160920T103000Z
+SEQUENCE:0
+SUMMARY:INFVI\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; B101\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635002_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160920T113000Z
+DTEND:20160920T133000Z
+SEQUENCE:0
+SUMMARY:PHIS\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; B101\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635047_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160920T133000Z
+DTEND:20160920T153000Z
+SEQUENCE:573306
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635074_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160921T070000Z
+DTEND:20160921T090000Z
+SEQUENCE:562530
+SUMMARY:BDA\; C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C2\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635116_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160921T113000Z
+DTEND:20160921T133000Z
+SEQUENCE:573321
+SUMMARY:IMAPR\; C3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; C3\; (Hoor
+ college)\; Voor: Alle groepen
+UID:1635206_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160921T133000Z
+DTEND:20160921T153000Z
+SEQUENCE:573320
+SUMMARY:COMP\; A7\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Compilers (2167)\; Prof. dr. VAN DEN BUSSCHE Jan\; A7\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635233_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160922T070000Z
+DTEND:20160922T090000Z
+SEQUENCE:570489
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635278_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160922T090000Z
+DTEND:20160922T110000Z
+SEQUENCE:570461
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635326_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160922T113000Z
+DTEND:20160922T133000Z
+SEQUENCE:560822
+SUMMARY:MIS\; A107\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; A107
+ \; (Hoorcollege)\; Voor: Alle groepen
+UID:1635368_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160923T070000Z
+DTEND:20160923T090000Z
+SEQUENCE:0
+SUMMARY:DACO\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; C21\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635464_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160923T133000Z
+DTEND:20160923T153000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C4\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635497_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160926T070000Z
+DTEND:20160926T090000Z
+SEQUENCE:554486
+SUMMARY:ICTMA\; A7\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A7\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614737_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160926T090000Z
+DTEND:20160926T110000Z
+SEQUENCE:554924
+SUMMARY:BUPRA\; A6\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A6\; *
+ **\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615118_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160926T120000Z
+DTEND:20160926T150000Z
+SEQUENCE:0
+SUMMARY:CSP\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634963_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160927T061500Z
+DTEND:20160927T074500Z
+SEQUENCE:0
+SUMMARY:EHEAL\; H-D209\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D209\; (Hoorco
+ llege)\; Voor: Alle groepen
+UID:1648583_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160927T083000Z
+DTEND:20160927T103000Z
+SEQUENCE:560799
+SUMMARY:INFVI\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; C4\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1635017_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160927T113000Z
+DTEND:20160927T133000Z
+SEQUENCE:0
+SUMMARY:PHIS\; C20\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; C20\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635062_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160927T133000Z
+DTEND:20160927T153000Z
+SEQUENCE:573307
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635098_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160928T070000Z
+DTEND:20160928T090000Z
+SEQUENCE:562531
+SUMMARY:BDA\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; B101\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1635125_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160928T113000Z
+DTEND:20160928T133000Z
+SEQUENCE:0
+SUMMARY:COMP\; C3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Compilers (2167)\; Prof. dr. VAN DEN BUSSCHE Jan\; C3\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635218_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160928T133000Z
+DTEND:20160928T153000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; A108\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; A108\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1635242_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160929T070000Z
+DTEND:20160929T090000Z
+SEQUENCE:570490
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635308_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160929T090000Z
+DTEND:20160929T110000Z
+SEQUENCE:570462
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635335_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160929T113000Z
+DTEND:20160929T133000Z
+SEQUENCE:0
+SUMMARY:MIS\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; C21\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1635383_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160930T063000Z
+DTEND:20160930T083000Z
+SEQUENCE:554495
+SUMMARY:ICTMA\; A7\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A7\; (Werkzitting)\; Voor: Alle groepen
+UID:1614740_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160930T084500Z
+DTEND:20160930T094500Z
+SEQUENCE:0
+SUMMARY:DACO\; A108\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; A108\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635479_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160930T110000Z
+DTEND:20160930T130000Z
+SEQUENCE:554934
+SUMMARY:BUPRA\; A5\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A5\; ***
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1615547_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160930T133000Z
+DTEND:20160930T153000Z
+SEQUENCE:0
+SUMMARY:VDIW\; A5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; A5\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635551_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161003T070000Z
+DTEND:20161003T090000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A7\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A7\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614743_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161003T090000Z
+DTEND:20161003T110000Z
+SEQUENCE:554923
+SUMMARY:BUPRA\; A6\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A6\; *
+ **\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615130_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161003T120000Z
+DTEND:20161003T150000Z
+SEQUENCE:0
+SUMMARY:CSP\; C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634978_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161004T061500Z
+DTEND:20161004T074500Z
+SEQUENCE:0
+SUMMARY:EHEAL\; H-D209\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D209\; (Hoorco
+ llege)\; Voor: Alle groepen
+UID:1648634_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161004T083000Z
+DTEND:20161004T103000Z
+SEQUENCE:0
+SUMMARY:INFVI\; A108\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; A108\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635020_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161004T113000Z
+DTEND:20161004T133000Z
+SEQUENCE:0
+SUMMARY:PHIS\; A9\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; A9\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635065_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161004T133000Z
+DTEND:20161004T153000Z
+SEQUENCE:573308
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635101_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161005T070000Z
+DTEND:20161005T090000Z
+SEQUENCE:562532
+SUMMARY:BDA\; A103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; A103\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1635128_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161005T133000Z
+DTEND:20161005T153000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; A109\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1635245_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161006T070000Z
+DTEND:20161006T090000Z
+SEQUENCE:570494
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635311_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161006T090000Z
+DTEND:20161006T110000Z
+SEQUENCE:570463
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635338_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161006T113000Z
+DTEND:20161006T133000Z
+SEQUENCE:0
+SUMMARY:MIS\; A9\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; A9\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635386_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161007T070000Z
+DTEND:20161007T090000Z
+SEQUENCE:554494
+SUMMARY:ICTMA\; A7\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A7\; (Werkzitting)\; Voor: Alle groepen
+UID:1614746_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161007T110000Z
+DTEND:20161007T130000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C20\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C20\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635554_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161007T130000Z
+DTEND:20161007T150000Z
+SEQUENCE:554935
+SUMMARY:BUPRA\; A5\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A5\; ***
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1615553_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161010T063000Z
+DTEND:20161010T083000Z
+SEQUENCE:573106
+SUMMARY:BUPRA\; A7\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A7\; ***
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1615535_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161010T120000Z
+DTEND:20161010T150000Z
+SEQUENCE:0
+SUMMARY:CSP\; A3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A3\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634981_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161011T061500Z
+DTEND:20161011T074500Z
+SEQUENCE:0
+SUMMARY:EHEAL\; H-D209\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D209\; (Hoorco
+ llege)\; Voor: Alle groepen
+UID:1648640_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161011T083000Z
+DTEND:20161011T103000Z
+SEQUENCE:0
+SUMMARY:INFVI\; C112\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; C112\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635023_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161011T113000Z
+DTEND:20161011T133000Z
+SEQUENCE:0
+SUMMARY:PHIS\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; B101\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635050_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161011T133000Z
+DTEND:20161011T153000Z
+SEQUENCE:573310
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635077_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161012T070000Z
+DTEND:20161012T090000Z
+SEQUENCE:562533
+SUMMARY:BDA\; C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C2\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635119_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161012T133000Z
+DTEND:20161012T153000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; A109\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1635248_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161013T070000Z
+DTEND:20161013T090000Z
+SEQUENCE:570495
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635314_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161013T090000Z
+DTEND:20161013T110000Z
+SEQUENCE:570466
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635344_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161013T113000Z
+DTEND:20161013T133000Z
+SEQUENCE:0
+SUMMARY:MIS\; A107\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; A107
+ \; (Hoorcollege)\; Voor: Alle groepen
+UID:1635371_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161014T070000Z
+DTEND:20161014T090000Z
+SEQUENCE:0
+SUMMARY:DACO\; A106\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; A106\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635482_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161014T090000Z
+DTEND:20161014T110000Z
+SEQUENCE:0
+SUMMARY:3DMOD\; A106\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; A106\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635611_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161014T133000Z
+DTEND:20161014T153000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C21\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635557_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161017T070000Z
+DTEND:20161017T090000Z
+SEQUENCE:554488
+SUMMARY:ICTMA\; A104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614749_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161017T090000Z
+DTEND:20161017T110000Z
+SEQUENCE:573120
+SUMMARY:BUPRA\; B102\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; B102\;
+  ***\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615133_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161017T120000Z
+DTEND:20161017T150000Z
+SEQUENCE:0
+SUMMARY:CSP\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634966_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161018T061500Z
+DTEND:20161018T074500Z
+SEQUENCE:0
+SUMMARY:EHEAL\; H-D209\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D209\; (Hoorco
+ llege)\; Voor: Alle groepen
+UID:1648643_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161018T080000Z
+DTEND:20161018T100000Z
+SEQUENCE:0
+SUMMARY:EHEAL\; H-D001\; (Labo)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D001\; (Labo)\
+ ; Voor: Alle groepen
+UID:1653158_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161018T113000Z
+DTEND:20161018T133000Z
+SEQUENCE:0
+SUMMARY:PHIS\; A106\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; A106\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635068_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161018T133000Z
+DTEND:20161018T153000Z
+SEQUENCE:573309
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635104_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T070000Z
+DTEND:20161019T090000Z
+SEQUENCE:564049
+SUMMARY:BDA\; C111\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C111\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1635131_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T113000Z
+DTEND:20161019T133000Z
+SEQUENCE:0
+SUMMARY:INFVI\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; A109\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635026_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T133000Z
+DTEND:20161019T153000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; A109\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1635251_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T070000Z
+DTEND:20161020T090000Z
+SEQUENCE:570498
+SUMMARY:PDS\; EDM\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635317_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T090000Z
+DTEND:20161020T110000Z
+SEQUENCE:570467
+SUMMARY:NLTT\; EDM\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635341_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T113000Z
+DTEND:20161020T133000Z
+SEQUENCE:561963
+SUMMARY:MIS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; EDM\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1635380_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T070000Z
+DTEND:20161021T090000Z
+SEQUENCE:0
+SUMMARY:DACO\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; A109\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635485_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T090000Z
+DTEND:20161021T110000Z
+SEQUENCE:0
+SUMMARY:3DMOD\; A106\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; A106\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635614_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DTEND:20161021T140000Z
+SEQUENCE:554493
+SUMMARY:ICTMA\; A104\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A104\; (Werkzitting)\; Voor: Alle groepen
+UID:1614752_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DTEND:20161021T160000Z
+SEQUENCE:554936
+SUMMARY:BUPRA\; A5\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A5\; ***
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1615556_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161024T070000Z
+DTEND:20161024T090000Z
+SEQUENCE:554490
+SUMMARY:ICTMA\; A104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614755_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161024T090000Z
+DTEND:20161024T110000Z
+SEQUENCE:556023
+SUMMARY:BUPRA\; B102\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; B102\; *
+ **\; (Werkzitting)\; Voor: Alle groepen
+UID:1615538_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161024T120000Z
+DTEND:20161024T150000Z
+SEQUENCE:0
+SUMMARY:CSP\; A106\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A106\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634984_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161025T061500Z
+DTEND:20161025T081500Z
+SEQUENCE:565255
+SUMMARY:EHEAL\; H-D001\; (Labo)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D001\; (Labo)\
+ ; Voor: Alle groepen
+UID:1653152_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161025T083000Z
+DTEND:20161025T103000Z
+SEQUENCE:0
+SUMMARY:INFVI\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; B101\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635005_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161025T113000Z
+DTEND:20161025T133000Z
+SEQUENCE:0
+SUMMARY:PHIS\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; B101\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635053_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161025T133000Z
+DTEND:20161025T153000Z
+SEQUENCE:573311
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635080_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161026T070000Z
+DTEND:20161026T090000Z
+SEQUENCE:562535
+SUMMARY:BDA\; C20\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C20\; (Hoorco
+ llege)\; Voor: Alle groepen
+UID:1635134_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161026T113000Z
+DTEND:20161026T133000Z
+SEQUENCE:0
+SUMMARY:COMP\; A9\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Compilers (2167)\; Prof. dr. VAN DEN BUSSCHE Jan\; A9\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635230_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161026T133000Z
+DTEND:20161026T153000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; C21\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1635254_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161027T070000Z
+DTEND:20161027T090000Z
+SEQUENCE:570499
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635305_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161027T090000Z
+DTEND:20161027T110000Z
+SEQUENCE:570465
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635359_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161027T113000Z
+DTEND:20161027T133000Z
+SEQUENCE:0
+SUMMARY:MIS\; B102\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; B102
+ \; (Hoorcollege)\; Voor: Alle groepen
+UID:1635389_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161028T070000Z
+DTEND:20161028T090000Z
+SEQUENCE:564955
+SUMMARY:DACO\; A7\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; A7\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635470_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161028T090000Z
+DTEND:20161028T110000Z
+SEQUENCE:0
+SUMMARY:3DMOD\; A106\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; A106\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635617_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161028T120000Z
+DTEND:20161028T140000Z
+SEQUENCE:554492
+SUMMARY:ICTMA\; A7\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A7\; (Werkzitting)\; Voor: Alle groepen
+UID:1614758_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161028T140000Z
+DTEND:20161028T160000Z
+SEQUENCE:554937
+SUMMARY:BUPRA\; A5\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A5\; ***
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1615559_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T080000Z
+DTEND:20161103T100000Z
+SEQUENCE:570479
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1666463_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T100000Z
+DTEND:20161103T120000Z
+SEQUENCE:570480
+SUMMARY:INFVI\; A8\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; A8\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1635029_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T130000Z
+DTEND:20161103T160000Z
+SEQUENCE:0
+SUMMARY:CSP\; C3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; C3\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634999_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161104T080000Z
+DTEND:20161104T100000Z
+SEQUENCE:562025
+SUMMARY:ICTMA\; A5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A5\; (Werkzitting)\; Voor: Alle groepen
+UID:1614761_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161104T113000Z
+DTEND:20161104T133000Z
+SEQUENCE:0
+SUMMARY:PHIS\; A3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; A3\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635071_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161104T140000Z
+DTEND:20161104T160000Z
+SEQUENCE:560830
+SUMMARY:VDIW\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C4\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635515_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161107T080000Z
+DTEND:20161107T100000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614764_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161107T100000Z
+DTEND:20161107T120000Z
+SEQUENCE:554928
+SUMMARY:BUPRA\; A6\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A6\; *
+ **\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615136_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161107T130000Z
+DTEND:20161107T160000Z
+SEQUENCE:0
+SUMMARY:CSP\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634969_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161108T073000Z
+DTEND:20161108T113000Z
+SEQUENCE:566744
+SUMMARY:EHEAL\; H-D001\; (Labo)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D001\; (Labo)\
+ ; Voor: Alle groepen
+UID:1648664_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161108T123000Z
+DTEND:20161108T143000Z
+SEQUENCE:0
+SUMMARY:PHIS\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; B101\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635056_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161108T143000Z
+DTEND:20161108T163000Z
+SEQUENCE:573312
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635083_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161109T080000Z
+DTEND:20161109T100000Z
+SEQUENCE:562536
+SUMMARY:BDA\; C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C1\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635137_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161109T123000Z
+DTEND:20161109T143000Z
+SEQUENCE:560801
+SUMMARY:INFVI\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; A109\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635032_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193411Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161109T143000Z
+DTEND:20161109T163000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; A5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; A5\; (Hoor
+ college)\; Voor: Alle groepen
+UID:1635257_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161110T080000Z
+DTEND:20161110T100000Z
+SEQUENCE:570500
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635320_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161110T100000Z
+DTEND:20161110T120000Z
+SEQUENCE:570477
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635347_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161110T123000Z
+DTEND:20161110T143000Z
+SEQUENCE:0
+SUMMARY:MIS\; A107\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; A107
+ \; (Hoorcollege)\; Voor: Alle groepen
+UID:1635374_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161114T080000Z
+DTEND:20161114T100000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614767_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161114T100000Z
+DTEND:20161114T120000Z
+SEQUENCE:554929
+SUMMARY:BUPRA\; A6\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A6\; *
+ **\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615541_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161114T130000Z
+DTEND:20161114T160000Z
+SEQUENCE:0
+SUMMARY:CSP\; A104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634987_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161115T073000Z
+DTEND:20161115T113000Z
+SEQUENCE:566750
+SUMMARY:EHEAL\; H-D001\; (Labo)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D001\; (Labo)\
+ ; Voor: Alle groepen
+UID:1648676_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161115T123000Z
+DTEND:20161115T143000Z
+SEQUENCE:0
+SUMMARY:PHIS\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Photorealistic Image Synthesis (3492)\; Prof. dr. BEKAERT Philipp
+ e\; B101\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635059_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161115T143000Z
+DTEND:20161115T163000Z
+SEQUENCE:573313
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635086_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161116T080000Z
+DTEND:20161116T100000Z
+SEQUENCE:562537
+SUMMARY:BDA\; C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C2\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635122_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161116T123000Z
+DTEND:20161116T143000Z
+SEQUENCE:0
+SUMMARY:COMP\; C3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Compilers (2167)\; Prof. dr. VAN DEN BUSSCHE Jan\; C3\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635221_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161116T143000Z
+DTEND:20161116T163000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; A7\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; A7\; (Hoor
+ college)\; Voor: Alle groepen
+UID:1635236_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161117T080000Z
+DTEND:20161117T100000Z
+SEQUENCE:570501
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635299_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161117T100000Z
+DTEND:20161117T120000Z
+SEQUENCE:570468
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635350_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161117T123000Z
+DTEND:20161117T143000Z
+SEQUENCE:0
+SUMMARY:MIS\; A107\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; A107
+ \; (Hoorcollege)\; Voor: Alle groepen
+UID:1635377_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161118T073000Z
+DTEND:20161118T093000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A5\; (Werkzitting)\; Voor: Alle groepen
+UID:1614779_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161118T100000Z
+DTEND:20161118T120000Z
+SEQUENCE:0
+SUMMARY:DACO\; A108\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; A108\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635488_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161118T130000Z
+DTEND:20161118T150000Z
+SEQUENCE:554938
+SUMMARY:BUPRA\; A6\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A6\; ***
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1615562_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161118T150000Z
+DTEND:20161118T170000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C2\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635563_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161128T080000Z
+DTEND:20161128T100000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614770_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161128T100000Z
+DTEND:20161128T120000Z
+SEQUENCE:554930
+SUMMARY:BUPRA\; A6\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A6\; *
+ **\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615124_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161128T130000Z
+DTEND:20161128T160000Z
+SEQUENCE:0
+SUMMARY:CSP\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634972_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161129T073000Z
+DTEND:20161129T113000Z
+SEQUENCE:566753
+SUMMARY:EHEAL\; H-D001\; (Labo)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D001\; (Labo)\
+ ; Voor: Alle groepen
+UID:1648679_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161129T123000Z
+DTEND:20161129T143000Z
+SEQUENCE:0
+SUMMARY:3DMOD\; A6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; A6\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635632_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161129T143000Z
+DTEND:20161129T163000Z
+SEQUENCE:573314
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635107_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161130T080000Z
+DTEND:20161130T100000Z
+SEQUENCE:562538
+SUMMARY:BDA\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C109\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1635140_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161130T123000Z
+DTEND:20161130T143000Z
+SEQUENCE:0
+SUMMARY:COMP\; C3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Compilers (2167)\; Prof. dr. VAN DEN BUSSCHE Jan\; C3\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635224_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161130T143000Z
+DTEND:20161130T163000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; A8\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; A8\; (Hoor
+ college)\; Voor: Alle groepen
+UID:1635260_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161201T080000Z
+DTEND:20161201T100000Z
+SEQUENCE:570502
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635302_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161201T100000Z
+DTEND:20161201T120000Z
+SEQUENCE:570473
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635353_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161201T123000Z
+DTEND:20161201T143000Z
+SEQUENCE:0
+SUMMARY:MIS\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; C110
+ \; (Hoorcollege)\; Voor: Alle groepen
+UID:1635392_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161202T093000Z
+DTEND:20161202T113000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A5\; (Werkzitting)\; Voor: Alle groepen
+UID:1614782_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161202T123000Z
+DTEND:20161202T143000Z
+SEQUENCE:554939
+SUMMARY:BUPRA\; A103\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A103\; *
+ **\; (Werkzitting)\; Voor: Alle groepen
+UID:1615565_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161202T143000Z
+DTEND:20161202T163000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C4\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635518_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161205T080000Z
+DTEND:20161205T100000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614773_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161205T100000Z
+DTEND:20161205T120000Z
+SEQUENCE:554931
+SUMMARY:BUPRA\; A6\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A6\; *
+ **\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615142_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161205T130000Z
+DTEND:20161205T160000Z
+SEQUENCE:0
+SUMMARY:CSP\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; C4\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634990_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161206T073000Z
+DTEND:20161206T113000Z
+SEQUENCE:566757
+SUMMARY:EHEAL\; H-D001\; (Labo)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D001\; (Labo)\
+ ; Voor: Alle groepen
+UID:1648682_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161206T123000Z
+DTEND:20161206T143000Z
+SEQUENCE:0
+SUMMARY:3DMOD\; A9\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; A9\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635635_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161206T143000Z
+DTEND:20161206T163000Z
+SEQUENCE:573315
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635110_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161207T080000Z
+DTEND:20161207T100000Z
+SEQUENCE:562539
+SUMMARY:BDA\; C20\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C20\; (Hoorco
+ llege)\; Voor: Alle groepen
+UID:1635143_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161207T123000Z
+DTEND:20161207T143000Z
+SEQUENCE:0
+SUMMARY:INFVI\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; C21\; 
+ (Hoorcollege)\; Voor: Alle groepen
+UID:1635035_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161207T143000Z
+DTEND:20161207T163000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; A7\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; A7\; (Hoor
+ college)\; Voor: Alle groepen
+UID:1635239_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161208T080000Z
+DTEND:20161208T100000Z
+SEQUENCE:570497
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635296_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161208T100000Z
+DTEND:20161208T120000Z
+SEQUENCE:570472
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635356_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161208T123000Z
+DTEND:20161208T143000Z
+SEQUENCE:0
+SUMMARY:MIS\; C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; C1\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635404_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161209T080000Z
+DTEND:20161209T093000Z
+SEQUENCE:0
+SUMMARY:DACO\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; C21\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635491_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161209T093000Z
+DTEND:20161209T113000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A5\; (Werkzitting)\; Voor: Alle groepen
+UID:1614785_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161209T123000Z
+DTEND:20161209T143000Z
+SEQUENCE:554940
+SUMMARY:BUPRA\; A5\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A5\; ***
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1615550_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161209T143000Z
+DTEND:20161209T163000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C4\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635521_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161212T080000Z
+DTEND:20161212T100000Z
+SEQUENCE:0
+SUMMARY:ICTMA\; A104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1614776_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161212T100000Z
+DTEND:20161212T120000Z
+SEQUENCE:554932
+SUMMARY:BUPRA\; A6\; ***\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A6\; *
+ **\; (Hoorcollege)\; Voor: Alle groepen
+UID:1615145_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161212T130000Z
+DTEND:20161212T160000Z
+SEQUENCE:0
+SUMMARY:CSP\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; A109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634975_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161213T073000Z
+DTEND:20161213T113000Z
+SEQUENCE:566763
+SUMMARY:EHEAL\; H-D001\; (Labo)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D001\; (Labo)\
+ ; Voor: Alle groepen
+UID:1648685_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161213T123000Z
+DTEND:20161213T143000Z
+SEQUENCE:560875
+SUMMARY:3DMOD\; A109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; A109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635620_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161213T143000Z
+DTEND:20161213T163000Z
+SEQUENCE:573316
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635113_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161214T080000Z
+DTEND:20161214T100000Z
+SEQUENCE:562540
+SUMMARY:BDA\; A105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; A105\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1635146_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161214T123000Z
+DTEND:20161214T143000Z
+SEQUENCE:0
+SUMMARY:INFVI\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; C4\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1635038_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161214T143000Z
+DTEND:20161214T163000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; B101\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1635266_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161215T080000Z
+DTEND:20161215T100000Z
+SEQUENCE:570496
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635293_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161215T100000Z
+DTEND:20161215T120000Z
+SEQUENCE:570471
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635362_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161215T123000Z
+DTEND:20161215T143000Z
+SEQUENCE:0
+SUMMARY:MIS\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; C110
+ \; (Hoorcollege)\; Voor: Alle groepen
+UID:1635395_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161216T080000Z
+DTEND:20161216T100000Z
+SEQUENCE:554497
+SUMMARY:ICTMA\; A7\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:ICT-management (2199)\; Prof. dr. DEPAIRE Benoit\, Prof. BOONEN T
+ om\; A7\; (Werkzitting)\; Voor: Alle groepen
+UID:1614788_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161216T130000Z
+DTEND:20161216T150000Z
+SEQUENCE:554941
+SUMMARY:BUPRA\; A5\; ***\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; De heer JOUCK Toon\; A5\; ***
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1615568_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161216T150000Z
+DTEND:20161216T170000Z
+SEQUENCE:560832
+SUMMARY:VDIW\; C3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C3\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635569_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161219T100000Z
+DTEND:20161219T120000Z
+SEQUENCE:554933
+SUMMARY:BUPRA\; A6\; ***\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Business Process Analytics (2218)\; Prof. dr. JANS Mieke\; A6\; *
+ **\; (Responsiecollege)\; Voor: Alle groepen
+UID:1615127_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161219T130000Z
+DTEND:20161219T160000Z
+SEQUENCE:0
+SUMMARY:CSP\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; C21\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634993_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161220T073000Z
+DTEND:20161220T113000Z
+SEQUENCE:566770
+SUMMARY:EHEAL\; H-D001\; (Labo)\; Voor: Alle groepen
+DESCRIPTION:E-Health (3473)\; Prof. dr. ir. THOELEN Ronald\; H-D001\; (Labo)\
+ ; Voor: Alle groepen
+UID:1648688_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161220T123000Z
+DTEND:20161220T143000Z
+SEQUENCE:560877
+SUMMARY:3DMOD\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; B101\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635623_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161220T143000Z
+DTEND:20161220T163000Z
+SEQUENCE:573317
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635089_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161221T080000Z
+DTEND:20161221T100000Z
+SEQUENCE:562541
+SUMMARY:BDA\; A105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; A105\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1635149_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161221T123000Z
+DTEND:20161221T143000Z
+SEQUENCE:560803
+SUMMARY:INFVI\; C20\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; C20\; 
+ (Hoorcollege)\; Voor: Alle groepen
+UID:1635008_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161221T143000Z
+DTEND:20161221T163000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; B101\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1635263_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161222T080000Z
+DTEND:20161222T100000Z
+SEQUENCE:570493
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635290_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161222T100000Z
+DTEND:20161222T120000Z
+SEQUENCE:570474
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635365_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161222T123000Z
+DTEND:20161222T143000Z
+SEQUENCE:0
+SUMMARY:MIS\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; C109
+ \; (Hoorcollege)\; Voor: Alle groepen
+UID:1635398_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161223T143000Z
+DTEND:20161223T163000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C4\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635524_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170103T093000Z
+DTEND:20170103T113000Z
+SEQUENCE:0
+SUMMARY:INFVI\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; B101\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635011_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170103T123000Z
+DTEND:20170103T143000Z
+SEQUENCE:560879
+SUMMARY:3DMOD\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; B101\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635626_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170103T143000Z
+DTEND:20170103T163000Z
+SEQUENCE:573318
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635092_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170104T080000Z
+DTEND:20170104T100000Z
+SEQUENCE:562542
+SUMMARY:BDA\; C3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; C3\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1635152_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170104T123000Z
+DTEND:20170104T143000Z
+SEQUENCE:560804
+SUMMARY:INFVI\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; B101\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635044_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170104T143000Z
+DTEND:20170104T163000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; B101\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1635272_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170105T080000Z
+DTEND:20170105T100000Z
+SEQUENCE:570492
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635284_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170105T100000Z
+DTEND:20170105T120000Z
+SEQUENCE:570470
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635329_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170105T123000Z
+DTEND:20170105T143000Z
+SEQUENCE:0
+SUMMARY:MIS\; A8\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; A8\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635407_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170106T080000Z
+DTEND:20170106T100000Z
+SEQUENCE:0
+SUMMARY:DACO\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; C21\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635473_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193412Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170106T143000Z
+DTEND:20170106T163000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C4\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635527_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170109T130000Z
+DTEND:20170109T160000Z
+SEQUENCE:0
+SUMMARY:CSP\; C3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constraint Satisfaction Problems (2269)\; Prof. dr. GYSSENS Marc\
+ ; C3\; (Hoorcollege)\; Voor: Alle groepen
+UID:1634996_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170110T123000Z
+DTEND:20170110T143000Z
+SEQUENCE:560882
+SUMMARY:3DMOD\; A8\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:3D Modelling and Image Based Rendering (3493)\; Prof. dr. BEKAERT
+  Philippe\; A8\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635629_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170110T143000Z
+DTEND:20170110T163000Z
+SEQUENCE:573319
+SUMMARY:UCSE\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:User-centered Software Engineering (2187)\; Prof. dr. CONINX Kari
+ n\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635095_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170111T080000Z
+DTEND:20170111T100000Z
+SEQUENCE:562543
+SUMMARY:BDA\; A108\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Big Data Analytics (2266)\; Prof. dr. NEVEN Frank\; A108\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1635155_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170111T123000Z
+DTEND:20170111T143000Z
+SEQUENCE:560805
+SUMMARY:INFVI\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Information Visualisation (2185)\; Prof. dr. LUYTEN Kris\; B101\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635014_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170111T143000Z
+DTEND:20170111T163000Z
+SEQUENCE:0
+SUMMARY:IMAPR\; B101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Image Processing (2169)\; Prof. dr. BEKAERT Philippe\; B101\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1635269_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170112T080000Z
+DTEND:20170112T100000Z
+SEQUENCE:570491
+SUMMARY:PDS\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Parallel and Distributed Systems (2166)\; Prof. dr. LAMOTTE Wim\;
+  EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635287_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170112T100000Z
+DTEND:20170112T120000Z
+SEQUENCE:570469
+SUMMARY:NLTT\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Network Labs\, Tools and Techniques (3488)\; Prof. dr. QUAX Peter
+ \; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1635332_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170112T123000Z
+DTEND:20170112T143000Z
+SEQUENCE:0
+SUMMARY:MIS\; C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Medical Information Systems (3483)\; Prof. dr. LUYTEN Kris\; C1\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1635401_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170113T080000Z
+DTEND:20170113T100000Z
+SEQUENCE:0
+SUMMARY:DACO\; C21\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Data Compression (2168)\; Prof. dr. LAMOTTE Wim\; C21\; (Hoorcoll
+ ege)\; Voor: Alle groepen
+UID:1635476_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170113T143000Z
+DTEND:20170113T163000Z
+SEQUENCE:0
+SUMMARY:VDIW\; C4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Vakdidactiek Informatica/Wiskunde - Didactische Competentie Oefen
+ lessen (DCO) (2019)\; Prof. dr. DI FIORE Fabian\; C4\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1635530_iCalRoosters@uhasselt.be
+DTSTAMP:20160919T193413Z
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

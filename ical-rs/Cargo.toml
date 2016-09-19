@@ -1,0 +1,6 @@
+[package]
+name = "ical"
+version = "0.1.0"
+authors = ["Olivier <olivier4@telenet.be>"]
+
+[dependencies]
