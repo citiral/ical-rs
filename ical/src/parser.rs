@@ -2,38 +2,10 @@ use super::Calendar;
 use std::result;
 use std::str;
 use std::iter;
-use std::error::Error;
-use std::fmt;
+use super::error::ParserError;
 
 pub type Result<T> = result::Result<T, ParserError>;
 
-#[derive(Debug)]
-pub enum ParserError {
-	InvalidContentLine(&'static str),
-	Generic(&'static str)
-}
-
-impl fmt::Display for ParserError {
-    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        match *self {
-            // Both underlying errors already impl `Display`, so we defer to
-            // their implementations.
-            ParserError::InvalidContentLine(ref message) => write!(f, "Parse error: {}", message),
-            ParserError::Generic(ref message) => write!(f, "Parse error: {}", message),
-        }
-    }
-}
-
-impl Error for ParserError {
-    fn description(&self) -> &str {
-    	match *self {
-    		ParserError::InvalidContentLine(ref message) => message,
-    		ParserError::Generic(ref message) => message
-    	}
-    }
-
-    fn cause(&self) -> Option<&Error> { None }	
-}
 
 #[derive(Debug)]
 struct ContentLine {
