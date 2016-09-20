@@ -9,7 +9,7 @@ pub type Result<T> = result::Result<T, ParserError>;
 
 #[derive(Debug)]
 pub enum ParserError {
-	EndOfStream,
+	InvalidContentLine(&'static str),
 	Generic(&'static str)
 }
 
@@ -18,7 +18,7 @@ impl fmt::Display for ParserError {
         match *self {
             // Both underlying errors already impl `Display`, so we defer to
             // their implementations.
-            ParserError::EndOfStream => write!(f, "IO error: {}", "The stream has terminated before parsing was finished."),
+            ParserError::InvalidContentLine(ref message) => write!(f, "Parse error: {}", message),
             ParserError::Generic(ref message) => write!(f, "Parse error: {}", message),
         }
     }
@@ -27,7 +27,7 @@ impl fmt::Display for ParserError {
 impl Error for ParserError {
     fn description(&self) -> &str {
     	match *self {
-    		ParserError::EndOfStream => "The stream has terminated before parsing was finished.",
+    		ParserError::InvalidContentLine(ref message) => message,
     		ParserError::Generic(ref message) => message
     	}
     }
@@ -35,93 +35,79 @@ impl Error for ParserError {
     fn cause(&self) -> Option<&Error> { None }	
 }
 
-struct CalendarParser<'a> {
-	iterator: iter::Peekable<str::Chars<'a>>,
+#[derive(Debug)]
+struct ContentLine {
+	name: String,
+	value: String,
+	param: Vec<ContentParam>
 }
 
-impl<'a> CalendarParser<'a> {
+#[derive(Debug)]
+struct ContentParam {
+	name: String,
+	value: Vec<String>,
+}
 
-	pub fn from_string(content: &'a str) -> CalendarParser<'a> {
-		// create a parser and parse a single icalobject
-		CalendarParser {
-			iterator: content.chars().peekable()
-		}
-	}
+#[derive(Debug)]
+struct CalendarRaw {
+	lines: Vec<ContentLine>,
+}
 
-	pub fn expect_crlf(&mut self) -> Result<()> {
-		try!(self.expect_char('\u{000D}'));
-		try!(self.expect_char('\u{000A}'));
-		Ok(())
-	}
+fn fetch_next_unfolded_line(iter: &mut iter::Peekable<str::Lines>) -> Option<String> {
+	// get the next line
+	iter.next().map(|line| {
+		let mut result = line.to_string();
 
-	pub fn expect_iana_token(&mut self, token: &str) -> Result<()> {
-		let val = try!(self.parse_iana_token());
-
-		if val == token {
-			Ok(())
-		} else {
-			println!("found {} expected {}", val, token);
-			Err(ParserError::Generic("Found the wrong token."))
-		}
-	}
-
-	pub fn expect_char(&mut self, expected: char) -> Result<()> {
-		let val = self.iterator.next();
-		val.map_or(Err(ParserError::EndOfStream), |c| {
-			if c == expected {
-				Ok(())
-			} else {
-				Err(ParserError::Generic("Found the wrong char"))
-			}
-		})
-	}
-
-	pub fn parse_iana_token(&mut self) -> Result<String> {
-		let mut token = String::new();
+		// keep peeking the next line and appending it if it is a folded line
+		while iter.peek().map_or(false, |l| l.find(char::is_whitespace) == Some(0)) {
+			let (_, trimmed) = iter.next().unwrap().split_at(1);
+			result.push_str(trimmed);
+		};
 		
-		// we need at least one token, so check if there is one
-		if self.iterator.peek().is_none() {
-			return Err(ParserError::EndOfStream);
-		}
+		// return the unfolded line, or None if the iterator was empty
+		result
+	})
+}
 
-		// keep reading characters until end of stream or an invalid character is encountered
-		loop {
-			if let Some(&c) = self.iterator.peek() {
-				if c.is_alphanumeric() || c == '-' {
-					token.push(c);
-					self.iterator.next();
-				} else {
-					break
-				}
-			} else {
-				break
-			}
-		}
+fn parse_content_param(line: &str) -> Result<ContentParam> {
+	println!("TODO: parse parameter");
+	Ok(ContentParam {
+		name: "todo".to_string(),
+		value: Vec::new(),
+	})
+}
 
-		Ok(token)
+fn parse_content_line(line: &str) -> Result<ContentLine> {
+	// split at the first ':' or return an error if no ':' is found.
+	let (name_and_param, value) = line.split_at(try!(line.find(':').ok_or(ParserError::InvalidContentLine("No ':' found in contentline."))));
+
+	// parse the name_and_param
+	let mut iter = name_and_param.split(';');
+	let name = iter.next().unwrap(); // there is always at least one result
+	let mut params = Vec::new();
+	for param in iter {
+		params.push(try!(parse_content_param(param)));
 	}
 
-	// actual parsing functions
-	pub fn parse_icalobject(&mut self) -> Result<Calendar> {
-		try!(self.expect_iana_token("BEGIN"));
-		try!(self.expect_char(':'));
-		try!(self.expect_iana_token("VCALENDAR"));
-		try!(self.expect_crlf());
-
-		// parse the icalbody
-
-		try!(self.expect_iana_token("END"));
-		try!(self.expect_char(':'));
-		try!(self.expect_iana_token("VCALENDAR"));
-		// a file _should_ end with a crlf but we will led it slide to prevent annoying parser errors
-		//try!(self.expect_crlf());
-
-
-		Ok(Calendar {})
-	}	
+	Ok(ContentLine {
+		name: name.to_string(),
+		value: value.to_string(),
+		param: params,
+	})
 }
 
 pub fn from_string(content: &str) -> Result<Calendar> {
-	let mut parser = CalendarParser::from_string(content);	
-	parser.parse_icalobject()
+	let mut raw = CalendarRaw {
+		lines: Vec::new()
+	};
+
+	// first parse all content lines
+	let mut iter = content.lines().peekable();
+	let mut lines = Vec::<ContentLine>::new();
+
+	while let Some(line) = fetch_next_unfolded_line(&mut iter) {
+		lines.push(try!(parse_content_line(&line)));
+	};
+
+	Ok(Calendar{})
 }
