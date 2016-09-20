@@ -6,8 +6,27 @@ use error::CalendarError;
 mod parser;
 mod error;
 
-pub struct Calendar {
+#[derive(Debug)]
+enum CalendarScale {
+	Gregorian,
+}
 
+#[derive(Debug)]
+enum CalendarVersion {
+	Version_2_0,
+}
+
+#[derive(Debug)]
+pub struct CalendarProperties {
+	pub prodid: String,
+	pub version: String,
+	pub calscale: CalendarScale,
+	pub method: Option<String>,
+}
+
+#[derive(Debug)]
+pub struct Calendar {
+	pub properties: CalendarProperties
 }
 
 pub fn from_file(filename: &str) -> Result<Calendar, CalendarError>
